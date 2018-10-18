@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+}
+
+header {
+  background-color: gray;
+  color: white;
+  padding: 40px
+}
+
+section {
+  background-color:gray;
+  color: white;
+  width: 50%;
+  float: center
+  height: 300px;
+}
+
+.small-img {
+  width: 200px;
+  }
